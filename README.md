@@ -27,7 +27,7 @@ The primary goal is to determine whether:
 
 - The musical key of a song affects its streaming performance
 - The tempo category (`bpm2`) affects streams
-- There is a **statistically significant interaction** between key and tempo in influencing stream counts
+- There is a statistically significant interaction between key and tempo in influencing stream counts
 
 ---
 
@@ -51,7 +51,7 @@ The primary goal is to determine whether:
 - Boxplots were used to visualize the distribution of `streams` across:
   - 11 musical keys
   - 5 tempo categories
-- An **interaction plot** was generated to visually assess how combinations of key and tempo impact streaming performance.
+- An interaction plot** was generated to visually assess how combinations of key and tempo impact streaming performance.
 
 ---
 
@@ -68,7 +68,7 @@ Significant differences in Spotify stream counts were found between:
 
 ## Assumption Checks
 
-The assumptions for ANOVA were found to be **violated**:
+The assumptions for ANOVA were found to be violated:
 
 - Normality: Q-Q plot showed heavy skew on both tails
 - Equal Variance: Residual plot showed a fanning pattern, indicating heteroscedasticity
