@@ -83,7 +83,7 @@ These violations mean that **caution** should be used when interpreting the p-va
 This analysis provided insight into the potential influence of tempo on streaming success, suggesting that songs in certain BPM ranges may be more commercially effective than others. However:
 
 - Musical key did not appear to be a statistically significant factor in stream count
-- Interaction effects** between key and BPM were not significant
+- Interaction effects between key and BPM were not significant
 
 It's important to note that **lack of significance does not prove no effect** — only that the analysis failed to detect one under current assumptions and data structure.
 
